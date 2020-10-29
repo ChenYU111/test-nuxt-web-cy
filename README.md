@@ -1,0 +1,1 @@
+# test-nuxt-web-cy
